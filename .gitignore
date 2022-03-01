@@ -1,3 +1,8 @@
+# Data files
+X_train_surge.npz
+X_test_surge_178mikI.npz
+Y_train_surge.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
